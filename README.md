@@ -8,8 +8,9 @@ Tengo 20 años y soy de Tucuman, Argentina.
 # :blue_book: Conocimientos en:
 * Html
 * Css
-* Bootstap
 * Sass
+* Bootstap
+* Tailwind
 * Javacript
 * Git
 
