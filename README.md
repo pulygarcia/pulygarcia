@@ -5,7 +5,7 @@ Tengo 20 años y soy de Tucuman, Argentina.
 - 💬 Interesado en la programación en general y desarrollo web ...
 - :raised_hand: Estoy dispuesto a colaborar en proyectos y seguir aprendiendo nuevas cosas!
 
-# :blue_book: Conocimientos en:
+# :blue_book: Tecnologías:
 * Html
 * Css
 * Sass
