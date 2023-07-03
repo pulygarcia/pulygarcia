@@ -12,6 +12,7 @@ Tengo 20 años y soy de Tucuman, Argentina.
 * Bootstap
 * Tailwind
 * Javacript
+* Vue.js
 * Git
 
 ## Contactame
