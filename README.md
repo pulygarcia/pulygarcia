@@ -9,7 +9,7 @@ Tengo 20 años y soy de Tucuman, Argentina.
 * Html
 * Css
 * Sass
-* Bootstap
+* Bootstrap
 * Tailwind
 * Javacript
 * Vue.js
