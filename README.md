@@ -15,6 +15,8 @@ Tengo 20 años y soy de Tucuman, Argentina.
 * Vue.js
 * Git
 
+He estado construyendo varios proyectos y siempre estoy buscando cosas nuevas! Encontrarás muchos de ellos en este perfil.
+
 ## Contactame
 * [Linkedin](https://www.linkedin.com/in/jose-ignacio-robledo-puly-008661239/)
 * [Portfolio](https://portfolio-puly-v2.netlify.app)
