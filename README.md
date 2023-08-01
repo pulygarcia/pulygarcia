@@ -12,8 +12,10 @@ Tengo 20 años y soy de Tucuman, Argentina.
 * Bootstrap
 * Tailwind
 * Javacript
-* Vue.js
 * Git
+* Vue.js
+* Pinia
+* Rest Api`s
 
 He estado construyendo varios proyectos y siempre estoy buscando cosas nuevas! Encontrarás muchos de ellos en este perfil.
 
