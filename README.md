@@ -1,23 +1,21 @@
 ### ¡Hola! :wave: Soy José Ignacio
-Tengo 20 años y soy de Tucuman, Argentina.
+Tengo 20 años y soy de Tucuman, Argentina .
 
-- :grin: Actualmente me encuentro estudiando desarrollo Frontend...
-- 💬 Interesado en la programación en general y desarrollo web ...
-- :raised_hand: Estoy dispuesto a colaborar en proyectos y seguir aprendiendo nuevas cosas!
+**`Desarrollo web y aplicaciones Frontend!`** :coffee:
 
-# :blue_book: Tecnologías:
-* Html
-* Css
-* Sass
-* Bootstrap
-* Tailwind
-* Javacript
-* Git
-* Vue.js
-* Pinia
-* Firebase
-
-He estado construyendo varios proyectos y siempre estoy buscando cosas nuevas! Encontrarás muchos de ellos en este perfil.
+### :briefcase: Tecnologías - herramientas que utilizo
+[<img align="left" alt="Vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Pinia" width="26px" src="https://pinia.vuejs.org/logo.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />][jsplaylist]
 
 ## Contactame
 * [Linkedin](https://www.linkedin.com/in/jose-ignacio-robledo-puly-008661239/)
