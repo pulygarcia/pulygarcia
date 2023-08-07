@@ -26,9 +26,7 @@ Con deseos de conocer nuevos lugares 🗺️
 [<img align="left" alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Firebase" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />]
 
-
-
-
+</br>
 
 ## Contactame
 
