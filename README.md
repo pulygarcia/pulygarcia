@@ -28,7 +28,10 @@ Con deseos de conocer nuevos lugares 🗺️
 
 
 
+
+
 ## Contactame
+
 * [Linkedin](https://www.linkedin.com/in/jose-ignacio-robledo-puly-008661239/)
 * [Portfolio](https://portfolio-puly-v2.netlify.app)
 * [Email](pulygarcia09@gmail.com)
