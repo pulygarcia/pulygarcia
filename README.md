@@ -1,13 +1,18 @@
 ### ¡Hola! :wave: Soy José Ignacio
-Tengo 20 años y soy de Tucuman, Argentina .
+20 años. Tucuman, Argentina .
 
 **`Desarrollo de sitios web y aplicaciones Frontend!`** :coffee:
 
+
 En busca de una oportunidad para formar parte de un equipo de desarrollo! 🤓
+
 
 Con deseos de conocer nuevos lugares 🗺️
 
+
+
 ### :briefcase: Tecnologías - herramientas que utilizo
+
 [<img align="left" alt="Vscode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
@@ -21,6 +26,8 @@ Con deseos de conocer nuevos lugares 🗺️
 [<img align="left" alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Firebase" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />]
 
+
+
 ## Contactame
 * [Linkedin](https://www.linkedin.com/in/jose-ignacio-robledo-puly-008661239/)
 * [Portfolio](https://portfolio-puly-v2.netlify.app)
@@ -28,8 +35,12 @@ Con deseos de conocer nuevos lugares 🗺️
 * [Instagram](https://www.instagram.com/puly___garcia/)
 
   ### Fuera de la programación
+  
   🎾 Pádel
+  
   📖 Inglés
+  
   🥊 MMA
+  
   🍕 Compartir con amigos
   
