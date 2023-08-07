@@ -15,7 +15,6 @@ Tengo 20 años y soy de Tucuman, Argentina.
 * Git
 * Vue.js
 * Pinia
-* Rest Api`s
 * Firebase
 
 He estado construyendo varios proyectos y siempre estoy buscando cosas nuevas! Encontrarás muchos de ellos en este perfil.
