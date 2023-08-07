@@ -1,7 +1,11 @@
 ### ¡Hola! :wave: Soy José Ignacio
 Tengo 20 años y soy de Tucuman, Argentina .
 
-**`Desarrollo web y aplicaciones Frontend!`** :coffee:
+**`Desarrollo de sitios web y aplicaciones Frontend!`** :coffee:
+
+En busca de una oportunidad para formar parte de un equipo de desarrollo! 🤓
+
+Con deseos de conocer nuevos lugares 🗺️
 
 ### :briefcase: Tecnologías - herramientas que utilizo
 [<img align="left" alt="Vscode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -21,3 +25,11 @@ Tengo 20 años y soy de Tucuman, Argentina .
 * [Linkedin](https://www.linkedin.com/in/jose-ignacio-robledo-puly-008661239/)
 * [Portfolio](https://portfolio-puly-v2.netlify.app)
 * [Email](pulygarcia09@gmail.com)
+* [Instagram](https://www.instagram.com/puly___garcia/)
+
+  ### Fuera de la programación
+  🎾 Pádel
+  📖 Inglés
+  🥊 MMA
+  🍕 Compartir con amigos
+  
