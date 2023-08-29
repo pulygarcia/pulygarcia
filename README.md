@@ -36,7 +36,7 @@ Con deseos de conocer nuevos lugares 🗺️
 * [Email](pulygarcia09@gmail.com)
 * [Instagram](https://www.instagram.com/puly___garcia/)
 
-  ### Fuera de la programación
+  ### Hobbies Fuera de la programación
   
   🎾 Pádel
   
