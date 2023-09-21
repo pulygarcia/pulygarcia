@@ -3,6 +3,7 @@
 
 **`Desarrollo de sitios web y aplicaciones Frontend!`** :coffee:
 
+Ingles A2 - B1
 
 En busca de una oportunidad para formar parte de un equipo de desarrollo! 🤓
 
