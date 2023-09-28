@@ -15,7 +15,6 @@ Ingles A2 - B1
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pulygarcia&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">📞Contactáme</h3>
 <p align="left">
