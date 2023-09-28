@@ -29,6 +29,8 @@ Ingles A2 - B1
   </a>
 </div>
 
+<img align="right" height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+
 <h3 align="left">🎸Hobbies fuera de programación</h3>
   
   🎾 Pádel
@@ -42,9 +44,3 @@ Ingles A2 - B1
   🍕 Compartir con amigos y seres queridos
 
 
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
-</div>
-
-###
