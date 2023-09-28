@@ -17,10 +17,17 @@ Ingles A2 - B1
 ---
 
 <h3 align="left">📞Contactáme</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jose-ignacio-robledo-puly-008661239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé ignacio robledo" height="30" width="40" /></a>
-<a href="https://instagram.com/puly__garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puly__garcia" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.instagram.com/puly___garcia/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="pulygarcia09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jose-ignacio-robledo-puly-008661239/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h3 align="left">🎸Hobbies fuera de programación</h3>
   
@@ -33,3 +40,26 @@ Ingles A2 - B1
   📖 Inglés
   
   🍕 Compartir con amigos y seres queridos
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pulygarcia/pulygarcia/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
