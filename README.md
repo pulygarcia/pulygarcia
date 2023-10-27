@@ -3,7 +3,7 @@
 
 **`Desarrollo de sitios y aplicaciones Frontend!`** :coffee:
 
-Ingles A2 - B1
+Ingles B1
 
 🚀En busca de una oportunidad para obtener experiencias! 
 
