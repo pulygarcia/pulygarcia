@@ -5,7 +5,7 @@
 
 Ingles B1
 
-🚀En busca de una oportunidad para obtener experiencias! 
+🚀En busca de oportunidades y experiencias! 
 
 🗺️ Con deseos de conocer nuevos lugares 🗺️
 
