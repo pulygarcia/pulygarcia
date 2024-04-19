@@ -33,6 +33,8 @@ Ingles B1
 <h3 align="left">🎸Hobbies fuera de programación</h3>
   
   🎾 Pádel
+
+  :chart_with_upwards_trend: Criptomonedas y trading
   
   🥊 MMA
 
