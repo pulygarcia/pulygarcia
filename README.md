@@ -40,8 +40,8 @@ English B1 - Spanish Native
 
   🎵 Music
   
-  📖 Learn english
+  📖 Learning english
   
-  🍕 Spend time with friends and family
+  🍕 Spending time with friends and family
 
 
