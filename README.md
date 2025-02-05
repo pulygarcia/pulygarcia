@@ -1,5 +1,5 @@
 ### ¡Hi! :wave: I'm José Ignacio
-21 years. Tucuman, Argentina .
+22 years old. Tucuman, Argentina .
 
 **`Web apps and sites development`** :coffee:
 
