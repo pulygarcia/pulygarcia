@@ -7,15 +7,7 @@
 
 Currently working as a **Junior Developer** in a **Fintech SaaS** focused on democratizing access to housing across Latin America. I specialize in building scalable and reliable web applications.
 
----
-
-### 🛠️ What I'm working with
-* **Backend:** Crafting and mantaining robust APIs with **NestJS**, **TypeScript**, **TypeORM**, **PostgreSQL** and more tools and technologies.
-* **Frontend:** Building reactive and modern UIs using **Vue 3**, **Nuxt**, **Next.js**, ***Tailwind**, **Shad-cn** and more.
-* **Reliability:** Ensuring code quality and stability with **Unit Testing in Jest**.
----
-
-### 💻 Technologies & Tools
+### 💻 Technologies & Tools I'm working with
 
 <p align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -40,10 +32,10 @@ Currently working as a **Junior Developer** in a **Fintech SaaS** focused on dem
 
 ### 🎯 Hobbies & Interests
 * 📈 **Crypto & Trading:** Analyzing market trends and blockchain investing.
-* 🏁 ** F1:** Big fan of strategy and speed.
-* 🎾**Pádel: ** Active player
-* 🥊 **MMA:** I follow the UFC and even developed "Way to Belt", a platform for fighter stats.
-* 🗺️ **World Traveler:** Always curious to explore new places and cultures.
+* 🏁 **F1** Big fan of strategy and speed.
+* 🎾**Pádel** Active player
+* 🥊 **MMA** I follow the UFC and even developed "Way to Belt", a platform for fighter stats.
+* 🗺️ **World Traveler** Always curious to explore new places and cultures.
 
 ---
 
