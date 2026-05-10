@@ -1,3 +1,4 @@
+
 ```json
 {
   "name": "Ignacio (Puly) García",
@@ -8,6 +9,7 @@
   "status": "open to work 👀"
 }
 ```
+<img align="right" height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding gif" />
 
 > *Interfaces that actually work > interfaces that just look great.*
 
